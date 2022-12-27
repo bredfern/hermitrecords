@@ -1,0 +1,4 @@
+baseURL = 'https://hermitrecords.com/'
+languageCode = 'en-us'
+title = 'Hermit Records'
+theme = 'ananke'
