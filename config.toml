@@ -9,7 +9,7 @@ description = ""
 default_language = "en"
 
 # The site theme to use.
-theme = "papaya"
+# theme = "papaya"
 
 # For overriding the default output directory `public`, set it to another value (e.g.: "docs")
 output_dir = "public"
