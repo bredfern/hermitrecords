@@ -102,6 +102,7 @@ body {
 
 audio {
   filter: sepia(20%) saturate(70%) grayscale(1) contrast(99%) invert(12%);
+  background-color: aquamarine;
   width: 16.25rem;
   height: 1.563rem;
 }
