@@ -1,15 +1,15 @@
 {% extends "base.html" %}
 
 {% block content %}
-
-<div class="hero min-h-screen" style="background-image: url(https://placeimg.com/1000/800/arch);">
-  <div class="hero-overlay bg-opacity-60"></div>
-  <div class="hero-content text-center text-neutral-content">
-    <div class="max-w-md">
-      <h1 class="mb-5 text-5xl font-bold">Hermit Records</h1>
-      <p class="mb-5">Coming Soon.</p>
-    </div>
-  </div>
-</div>
-
+<h1><img src="/hermit.svg" width="270" height="299" alt="hermit records"></h1>
+<p class="lead">
+  A blast from the future past! Ancient music plus state of the art technology. 
+  We don't just make music and play it live we also teach it and design sounds for games, theater and video.
+</p>
+<p class="lead">
+  <audio controls>
+    <source src="/hello.mp3" type="audio/mpeg">
+    Your browser does not support the audio tag.
+  </audio>
+</p>
 {% endblock content %}

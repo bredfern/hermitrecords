@@ -4,14 +4,9 @@
         <loc>https://hermitrecords.com/</loc>
     </url>
     <url>
-        <loc>https://hermitrecords.com/blog/</loc>
+        <loc>https://hermitrecords.com/categories/</loc>
     </url>
     <url>
-        <loc>https://hermitrecords.com/blog/first/</loc>
-        <lastmod>2019-11-27</lastmod>
-    </url>
-    <url>
-        <loc>https://hermitrecords.com/blog/second/</loc>
-        <lastmod>2019-11-28</lastmod>
+        <loc>https://hermitrecords.com/tags/</loc>
     </url>
 </urlset>
